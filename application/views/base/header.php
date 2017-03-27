@@ -5,7 +5,7 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 <!--[if IE 9]> <html lang="en" class="ie9"> <![endif]-->
 <!--[if gt IE 9]> <html lang="en" class="ie"> <![endif]-->
 <!--[if !IE]><!-->
-<html lang="en">
+<html lang="es">
 <!--<![endif]-->
 	<head>
 		<meta charset="utf-8">
@@ -19,7 +19,7 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 
 		<!-- Favicon -->
 		<!--<link rel="shortcut icon" href="static/images/favicon.ico">-->
-		<link rel="icon" type="image/png" href="static/images/icons/favicon.png">
+		<link rel="icon" type="image/png" href="static/images/logo/favicon.png">
 
 		<link href='http://fonts.googleapis.com/css?family=Open+Sans:400italic,700italic,400,700,300&amp;subset=latin,latin-ext' rel='stylesheet' type='text/css'>
 		<link href='http://fonts.googleapis.com/css?family=PT+Serif' rel='stylesheet' type='text/css'>
@@ -88,7 +88,7 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 									</div>
 									<div class="btn-group dropdown">
 										<button type="button" class="btn dropdown-toggle">(+51) 967 678 152</button>
-									</div>					
+									</div>
 
 									<div class="btn-group dropdown">
 										<button type="button" class="btn dropdown-toggle" data-toggle="dropdown"><i class="fa fa-search"></i> Search</button>
@@ -170,7 +170,7 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 														</tr>
 													</tbody>
 												</table>
-												<div class="panel-body text-right">	
+												<div class="panel-body text-right">
 												<a href="shop-cart.html" class="btn btn-group btn-default btn-sm">View Cart</a>
 												<a href="shop-checkout.html" class="btn btn-group btn-default btn-sm">Checkout</a>
 												</div>
@@ -190,7 +190,7 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 						<div class="col-md-3">
 							<div class="header-left clearfix">
 								<div class="logo">
-									<a href="index.html"><img id="logo" src="static/images/logo/logo-empredehub.png" alt="Logo emprendehub"></a>
+									<a href="index.html"><img id="logo" src="static/images/logo/logo-empredehub.svg" alt="Logo emprendehub"></a>
 								</div>
 								<div class="site-slogan">
 									Desarrollo &amp; Diseño a medida
@@ -215,7 +215,7 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 												<ul class="nav navbar-nav navbar-right">
 													<li class="dropdown active"><a href="index.html" class="dropdown-toggle">Inicio</a></li>
 													<li class="dropdown"><a href="nosotros" class="dropdown-toggle">Nosotros</a></li>
-																										
+
 													<li class="dropdown mega-menu">
 														<a href="servicios" class="dropdown-toggle" data-toggle="dropdown">Servicios</a>
 														<ul class="dropdown-menu">
@@ -328,6 +328,3 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 					</div>
 				</div>
 			</header>
-
-
-

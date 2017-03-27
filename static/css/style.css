@@ -5055,6 +5055,8 @@ a.overlay.small i {
 	-webkit-transition: all 0.2s linear;
 	-o-transition: all 0.2s linear;
 	transition: all 0.2s linear;
+	max-width: 100%;
+	height: 35px;
 }
 
 .logo img:hover {
@@ -5102,7 +5104,10 @@ a.overlay.small i {
 .logo-footer {
 	margin: 25px 0 20px;
 }
-
+.logo-footer img{
+	max-width: 100%;
+	height: 35px;
+}
 .offcanvas .logo {
 	margin: 20px 0 10px;
 }

@@ -6,7 +6,7 @@
 							<div class="col-md-6">
 								<div class="footer-content">
 									<div class="logo-footer">
-										<img src="static/logo/logo-empredehub.png" alt="Logo emprendehub - pie de pagina"><hr>
+										<img src="static/images/logo/logo-empredehub.svg" alt="Logo emprendehub - pie de pagina"><hr>
 									</div>
 									<div class="row">
 										<div class="col-sm-6">
@@ -144,7 +144,7 @@
 											<span class="icon-bar"></span>
 											<span class="icon-bar"></span>
 										</button>
-									</div>   
+									</div>
 									<div class="collapse navbar-collapse" id="navbar-collapse-2">
 										<ul class="nav navbar-nav">
 											<li><a href="#">Inicio</a></li>
