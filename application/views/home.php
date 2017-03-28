@@ -19,7 +19,7 @@
 										data-speed="600"
 										data-start="1200"
 										data-end="9400"
-										data-endspeed="600">Premium HTML5 template
+										data-endspeed="600">Diseño y Desarrollo Web
 									</div>
 
 									<!-- LAYER NR. 2 -->
@@ -59,7 +59,7 @@
 										data-speed="600"
 										data-start="1800"
 										data-end="9400"
-										data-endspeed="600">Bootstrap Based
+										data-endspeed="600">Base Bootstrap
 									</div>
 
 									<!-- LAYER NR. 6 -->
@@ -79,7 +79,7 @@
 										data-speed="600"
 										data-start="2000"
 										data-end="9400"
-										data-endspeed="600">Packed Full of Features
+										data-endspeed="600">Diseño limpio y unico
 									</div>
 
 									<!-- LAYER NR. 8 -->
@@ -99,7 +99,7 @@
 										data-speed="600"
 										data-start="2200"
 										data-end="9400"
-										data-endspeed="600">Very Easy to Customize
+										data-endspeed="600">Desarrollo a medida
 									</div>
 
 									<!-- LAYER NR. 10 -->
@@ -109,7 +109,7 @@
 										data-speed="600"
 										data-start="2400"
 										data-end="9400"
-										data-endspeed="600">And Much More...
+										data-endspeed="600">Y mucho más
 									</div>
 
 									<!-- LAYER NR. 11 -->
@@ -138,7 +138,7 @@
 										data-speed="600"
 										data-start="1200"
 										data-end="9400"
-										data-endspeed="600">Powerful Bootstrap Theme
+										data-endspeed="600">Branding y Merchandising
 									</div>
 
 									<!-- LAYER NR. 2 -->
@@ -158,7 +158,7 @@
 										data-speed="600"
 										data-start="1600"
 										data-end="9400"
-										data-endspeed="600">W3C Validated
+										data-endspeed="600">Diseño de logos
 									</div>
 
 									<!-- LAYER NR. 4 -->
@@ -178,7 +178,7 @@
 										data-speed="600"
 										data-start="1800"
 										data-end="9400"
-										data-endspeed="600">Unlimited layout variations
+										data-endspeed="600">Impresión de tarjetas personales, volantes,etc
 									</div>
 
 									<!-- LAYER NR. 6 -->
@@ -198,7 +198,7 @@
 										data-speed="600"
 										data-start="2000"
 										data-end="9400"
-										data-endspeed="600">Google Maps
+										data-endspeed="600">Publicidad en articulos de oficina
 									</div>
 
 									<!-- LAYER NR. 8 -->
@@ -218,7 +218,7 @@
 										data-speed="600"
 										data-start="2200"
 										data-end="9400"
-										data-endspeed="600">Very Flexible
+										data-endspeed="600">Publicidad en Redes Sociales
 									</div>
 
 									<!-- LAYER NR. 10 -->
@@ -228,7 +228,7 @@
 										data-speed="600"
 										data-start="2400"
 										data-end="9400"
-										data-endspeed="600">And Much More...
+										data-endspeed="600">Y mucho más...
 									</div>
 
 									<!-- LAYER NR. 11 -->
@@ -257,7 +257,7 @@
 										data-speed="600"
 										data-start="1200"
 										data-end="9400"
-										data-endspeed="600">Clean &amp; Unique Design
+										data-endspeed="600">E-commerce
 									</div>
 
 									<!-- LAYER NR. 2 -->
@@ -277,7 +277,7 @@
 										data-speed="600"
 										data-start="1600"
 										data-end="9400"
-										data-endspeed="600">After Sale Support
+										data-endspeed="600">Carrito de Compras
 									</div>
 
 									<!-- LAYER NR. 4 -->
@@ -297,7 +297,7 @@
 										data-speed="600"
 										data-start="1800"
 										data-end="9400"
-										data-endspeed="600">Crystal Clean Code
+										data-endspeed="600">Marketing Online
 									</div>
 
 									<!-- LAYER NR. 6 -->
@@ -317,7 +317,7 @@
 										data-speed="600"
 										data-start="2000"
 										data-end="9400"
-										data-endspeed="600">Crossbrowser Compatible
+										data-endspeed="600">Programación a medida
 									</div>
 
 									<!-- LAYER NR. 8 -->
@@ -337,7 +337,7 @@
 										data-speed="600"
 										data-start="2200"
 										data-end="9400"
-										data-endspeed="600">Latest Technologies Used
+										data-endspeed="600">Base de Datos estable y cifrada
 									</div>
 
 									<!-- LAYER NR. 10 -->
@@ -347,7 +347,7 @@
 										data-speed="600"
 										data-start="2400"
 										data-end="9400"
-										data-endspeed="600">Don't miss out!
+										data-endspeed="600">¡No te lo pierdas!
 									</div>
 
 									<!-- LAYER NR. 11 -->
@@ -380,7 +380,7 @@
 					<div class="row">
 						<div class="col-md-8 col-md-offset-2">
 							<div class="call-to-action">
-								<h1 class="title">iDea Clean and Unique Design</h1>
+								<h1 class="title">Diseños limpios y unicos</h1>
 								<p>Sed ut Perspiciatis Unde Omnis Iste Sed ut perspiciatis unde omnis iste natu error sit  voluptatem accusan tium </p>
 								<a class="btn btn-white more" data-toggle="modal" data-target="#myModal">
 								Read more <i class="pl-10 fa fa-info"></i>
@@ -424,14 +424,14 @@
 					<div class="container">
 						<div class="row">
 							<div class="col-md-12">
-								<h1 class="text-center title">Features</h1>
+								<h1 class="text-center title">Características</h1>
 								<div class="separator"></div>
-								<p class="text-center">Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
+								<p class="text-center">Somos un equipo de creativos y esto es lo que hacemos</p>
 								<div class="row">
 									<div class="col-sm-4">
 										<div class="box-style-1 white-bg object-non-visible" data-animation-effect="fadeInUpSmall" data-effect-delay="0">
 											<i class="fa fa-leaf"></i>
-											<h2>Clean Design and Code</h2>
+											<h2>Codigo y Diseño limpio</h2>
 											<p>Voluptatem ad provident non <a href="#">repudiandae</a> veritatis beatae cupiditate amet reiciendis.</p>
 											<a href="page-services.html" class="btn-default btn">Read More</a>
 										</div>
@@ -439,7 +439,7 @@
 									<div class="col-sm-4">
 										<div class="box-style-1 white-bg object-non-visible" data-animation-effect="fadeInUpSmall" data-effect-delay="200">
 											<i class="fa fa-laptop"></i>
-											<h2>Very Flexible</h2>
+											<h2>Trabajo Flexible</h2>
 											<p>Iure sequi unde hic. Sapiente quaerat labore sequi inventore veritatis cumque.</p>
 											<a href="page-services.html" class="btn-default btn">Read More</a>
 										</div>
@@ -447,7 +447,7 @@
 									<div class="col-sm-4">
 										<div class="box-style-1 white-bg object-non-visible" data-animation-effect="fadeInUpSmall" data-effect-delay="400">
 											<i class="fa fa-sitemap"></i>
-											<h2>Latest Technologies</h2>
+											<h2>Ultimas Tecnologias</h2>
 											<p>Inventore dolores aut laboriosam cum consequuntur delectus sequi! Eum est.</p>
 											<a href="page-services.html" class="btn-default btn">Read More</a>
 										</div>
