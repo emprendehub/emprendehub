@@ -190,7 +190,7 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 						<div class="col-md-3">
 							<div class="header-left clearfix">
 								<div class="logo">
-									<a href="index.html"><img id="logo" src="static/images/logo/logo-empredehub.svg" alt="Logo emprendehub"></a>
+									<a href="<?= base_url(); ?>"><img id="logo" src="static/images/logo/logo-empredehub.svg" alt="Logo emprendehub"></a>
 								</div>
 								<div class="site-slogan">
 									Desarrollo &amp; Diseño a medida
@@ -213,7 +213,7 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 
 											<div class="collapse navbar-collapse" id="navbar-collapse-1">
 												<ul class="nav navbar-nav navbar-right">
-													<li class="dropdown active"><a href="index.html" class="dropdown-toggle">Inicio</a></li>
+													<li class="dropdown active"><a href="<?= base_url(); ?>" class="dropdown-toggle">Inicio</a></li>
 													<li class="dropdown"><a href="nosotros" class="dropdown-toggle">Nosotros</a></li>
 
 													<li class="dropdown mega-menu">

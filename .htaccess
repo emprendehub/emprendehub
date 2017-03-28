@@ -1,0 +1,21 @@
+<IfModule mod_rewrite.c>
+    RewriteEngine On
+    RewriteCond %{REQUEST_FILENAME} !-f
+    RewriteCond %{REQUEST_FILENAME} !-d
+    RewriteRule ^(.*)$ index.php?/$1 [L]
+
+
+    # Se supone que la regla aplica desde el directorio donde se encuentra el .htaccess pero si es necesario lo especificas, siendo / la raiz de dominio
+    #RewriteBase /
+
+    # con esta instrucción bloqueamos el acceso a la carpeta system, si es que se encuentra en el directorio web
+    RedirectMatch 403 ^/(system).*$
+
+    #
+    RewriteCond %{REQUEST_URI} ^system.*
+    RewriteRule ^(.*)$ /index.php/$1 [L]
+
+    #
+    RewriteCond %{REQUEST_URI} ^application.*
+    RewriteRule ^(.*)$ /index.php/$1 [L]
+</IfModule>
