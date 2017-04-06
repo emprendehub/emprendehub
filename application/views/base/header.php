@@ -88,7 +88,7 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 									</div>
 									<div class="btn-group dropdown">
 										<button type="button" class="btn dropdown-toggle"><i class="fa fa-phone"></i> (+51) 967 678 152</button>
-									</div>								
+									</div>
 								</div>
 							</div>
 						</div>
@@ -151,7 +151,7 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 																				</ul>
 																			</div>
 																			<div class="col-sm-4">
-																				<h4>Identidad de Marca</h4>
+																				<h4>Branding Y Merchandising</h4>
 																				<div class="divider"></div>
 																				<ul class="menu">
 																					<li><a href="identidad-de-marca"><i class="icon-right-open"></i>Identidad de Marca</a></li>
@@ -165,12 +165,6 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 																				<div class="divider"></div>
 																				<ul class="menu">
 																					<li><a href="comercio-electronico"><i class="icon-right-open"></i> Comercio Electronico <span class="badge">v1.1</span> </a></li>
-																				</ul>
-
-																				<h4>Articulos para empresas</h4>
-																				<div class="divider"></div>
-																				<ul class="menu">
-																					<li><a href="articulos-para-empresas"><i class="icon-right-open"></i> Articulos para Empresas</a></li>
 																				</ul>
 																			</div>
 																		</div>
