@@ -1,9 +1,9 @@
             <div class="main">
-                <div class="page-header larger parallax custom" style="background-image:url(assets/images/page-header-bg.jpg)">
+                <div class="page-header larger parallax custom" style="background-image:url(static/images/page-header-bg.jpg)">
                     <div class="container">
-                        <h1>Portfolio Post</h1>
+                        <h1>Diseño de Logotipos</h1>
                         <ol class="breadcrumb">
-                            <li><a href="index.html">Home</a></li>
+                            <li><a href="<?php base_url(); ?>">Home</a></li>
                             <li><a href="#">Pages</a></li>
                             <li class="active">Portfolio Post</li>
                         </ol>
@@ -14,9 +14,9 @@
                     <div class="row">
                         <div class="col-md-6">
                             <figure class="portfolio-post-media portfolio-post-slider owl-carousel">
-                                <img src="assets/images/portfolio/item1.jpg" alt="portfolio item">
-                                <img src="assets/images/portfolio/item2.jpg" alt="portfolio item">
-                                <img src="assets/images/portfolio/item3.jpg" alt="portfolio item">
+                                <img src="static/images/item1.jpg" alt="portfolio item">
+                                <img src="static/images/item2.jpg" alt="portfolio item">
+                                <img src="static/images/item3.jpg" alt="portfolio item">
                             </figure>
                         </div><!-- End .col-md-6 -->
                         <div class="col-md-6">
@@ -44,9 +44,9 @@
                     <div class="portfolio-related-carousel popup-gallery owl-carousel">
                         <div class="portfolio-item">
                             <figure>
-                                <img src="assets/images/portfolio/grid/item1.jpg" alt="Portfolio Name">
+                                <img src="static/images/item1.jpg" alt="Portfolio Name">
                                 <figcaption>
-                                    <a href="assets/images/portfolio/grid/item1.jpg" data-thumb="assets/images/portfolio/grid/item1.jpg" class="zoom-btn"><i class="fa fa-search"></i></a>
+                                    <a href="static/images/item1.jpg" data-thumb="static/images/item1.jpg" class="zoom-btn"><i class="fa fa-search"></i></a>
                                     <a href="single-portfolio.html" class="link-btn"><i class="fa fa-link"></i></a>
                                 </figcaption>
                             </figure>
@@ -62,9 +62,9 @@
 
                         <div class="portfolio-item">
                             <figure>
-                                <img src="assets/images/portfolio/grid/item2.jpg" alt="Portfolio Name">
+                                <img src="static/images/item2.jpg" alt="Portfolio Name">
                                  <figcaption>
-                                    <a href="http://www.youtube.com/watch?v=jt8YicG-F6c" data-thumb="assets/images/portfolio/grid/item2.jpg" class="zoom-btn"><i class="fa fa-search"></i></a>
+                                    <a href="http://www.youtube.com/watch?v=jt8YicG-F6c" data-thumb="static/images/item2.jpg" class="zoom-btn"><i class="fa fa-search"></i></a>
                                     <a href="single-portfolio.html" class="link-btn"><i class="fa fa-link"></i></a>
                                 </figcaption>
                             </figure>
@@ -80,9 +80,9 @@
 
                         <div class="portfolio-item">
                             <figure>
-                                <img src="assets/images/portfolio/grid/item3.jpg" alt="Portfolio Name">
+                                <img src="static/images/item3.jpg" alt="Portfolio Name">
                                 <figcaption>
-                                    <a href="assets/images/portfolio/grid/item3.jpg" data-thumb="assets/images/portfolio/grid/item3.jpg" class="zoom-btn"><i class="fa fa-search"></i></a>
+                                    <a href="static/images/item3.jpg" data-thumb="static/images/item3.jpg" class="zoom-btn"><i class="fa fa-search"></i></a>
                                     <a href="single-portfolio.html" class="link-btn"><i class="fa fa-link"></i></a>
                                 </figcaption>
                             </figure>
@@ -98,9 +98,9 @@
 
                         <div class="portfolio-item">
                             <figure>
-                                <img src="assets/images/portfolio/grid/item4.jpg" alt="Portfolio Name">
+                                <img src="static/images/item4.jpg" alt="Portfolio Name">
                                 <figcaption>
-                                    <a href="assets/images/portfolio/grid/item4.jpg" data-thumb="assets/images/portfolio/grid/item4.jpg" class="zoom-btn"><i class="fa fa-search"></i></a>
+                                    <a href="static/images/item4.jpg" data-thumb="static/images/item4.jpg" class="zoom-btn"><i class="fa fa-search"></i></a>
                                     <a href="single-portfolio.html" class="link-btn"><i class="fa fa-link"></i></a>
                                 </figcaption>
                             </figure>
@@ -116,9 +116,9 @@
 
                         <div class="portfolio-item">
                             <figure>
-                                <img src="assets/images/portfolio/grid/item5.jpg" alt="Portfolio Name">
+                                <img src="static/images/item5.jpg" alt="Portfolio Name">
                                 <figcaption>
-                                    <a href="assets/images/portfolio/grid/item5.jpg" data-thumb="assets/images/portfolio/grid/item5.jpg" class="zoom-btn"><i class="fa fa-search"></i></a>
+                                    <a href="static/images/item5.jpg" data-thumb="static/images/item5.jpg" class="zoom-btn"><i class="fa fa-search"></i></a>
                                     <a href="single-portfolio.html" class="link-btn"><i class="fa fa-link"></i></a>
                                 </figcaption>
                             </figure>
@@ -134,9 +134,9 @@
 
                         <div class="portfolio-item">
                             <figure>
-                                <img src="assets/images/portfolio/grid/item6.jpg" alt="Portfolio Name">
+                                <img src="static/images/item6.jpg" alt="Portfolio Name">
                                 <figcaption>
-                                    <a href="assets/images/portfolio/grid/item6.jpg" data-thumb="assets/images/portfolio/grid/item6.jpg" class="zoom-btn"><i class="fa fa-search"></i></a>
+                                    <a href="static/images/item6.jpg" data-thumb="static/images/item6.jpg" class="zoom-btn"><i class="fa fa-search"></i></a>
                                     <a href="single-portfolio.html" class="link-btn"><i class="fa fa-link"></i></a>
                                 </figcaption>
                             </figure>

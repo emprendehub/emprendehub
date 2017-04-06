@@ -12,7 +12,7 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 		<title><?php echo $titulo; ?></title>
 		<meta name="description" content="<?php echo $descripcion; ?>">
 		<meta name="author" content="emprendehub.org">
-		<base href="http://localhost/emprendehub/" target="_blank"> <!-- codigo provicional para la base-->
+		<base href="http://localhost/emprendehub/"> <!-- codigo provicional para la base-->
 
 		<!-- Mobile Meta -->
 		<meta name="viewport" content="width=device-width, initial-scale=1.0">
