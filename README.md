@@ -1,46 +1,44 @@
-# web
-Sitio Web - EmprendeHub
+#Sitio Web - EmprendeHub
 
 
-# Redes Sociales
+## Redes Sociales
 
 
-Facebook		https://www.instagram.com/emprendehub/
-Twitter			https://twitter.com/emprendehub
-Github 			https://github.com/emprendehub
-Linkedin 		https://www.linkedin.com/company/emprendehub
-Google Plus		https://plus.google.com/108155995109406532333
-Youtube 		https://www.youtube.com/channel/UCV6oAOwgRpHP3hUr512iPZA
-Facebook 		https://www.facebook.com/EmprendeHub.org
+[Facebook](https://www.facebook.com/EmprendeHub.org)
+[Twitter](https://twitter.com/emprendehub)
+[Youtube](https://www.youtube.com/channel/UCV6oAOwgRpHP3hUr512iPZA)
+[Github](https://github.com/emprendehub)
+[Linkedin](https://www.linkedin.com/company/emprendehub)
+[Google Plus](https://plus.google.com/108155995109406532333)
+[Instagram](https://www.instagram.com/emprendehub/)
 
 
-# Proyectos
+## Proyectos
 
-* Diitex
+* **Diitex**
 	- Logo
 	- Catalogo o Revista
 	- Tarjetas personales
 
-* Passion
+* **Passion**
 	- Logo
 	- Etiquetas
 
-* Rouzze
+* **Rouzze**
 	- Logo
 	- Etiquetas
 
-* Soy como Soy 
+* **Soy como Soy**
 	- Logo
 	- Etiquetas
 
-* Construzet
+* **Construzet**
 	- Logo
 	- Tarjetas de presentacion
 	- Web
 
-* Kumbres contratistas
+* **Kumbres contratistas**
 	- Web
 
-* Montepinar
+* **Montepinar**
 	- Web
-
