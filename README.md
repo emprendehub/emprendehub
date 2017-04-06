@@ -1,4 +1,4 @@
-#Sitio Web - EmprendeHub
+# Sitio Web - EmprendeHub
 
 
 ## Redes Sociales
@@ -9,7 +9,7 @@
 [Youtube](https://www.youtube.com/channel/UCV6oAOwgRpHP3hUr512iPZA)
 [Github](https://github.com/emprendehub)
 [Linkedin](https://www.linkedin.com/company/emprendehub)
-[Google Plus](https://plus.google.com/108155995109406532333)
+[Google-Plus](https://plus.google.com/108155995109406532333)
 [Instagram](https://www.instagram.com/emprendehub/)
 
 
