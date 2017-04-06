@@ -5,8 +5,8 @@
     <div class="row">
       <div class="col-md-12">
         <ol class="breadcrumb">
-          <li><i class="fa fa-home pr-10"></i><a href="index.html">Home</a></li>
-          <li class="active">Portfolio Item</li>
+          <li><i class="fa fa-home pr-10"></i><a href="<?php base_url(); ?>">Inicio</a></li>
+          <li class="active">Identidad de Marca</li>
         </ol>
       </div>
     </div>
@@ -27,11 +27,11 @@
 
         <!-- page-title start -->
         <!-- ================ -->
-        <h1 class="page-title margin-top-clear">Portfolio Item</h1>
+        <h1 class="page-title margin-top-clear">Identidad de Marca</h1>
         <!-- page-title end -->
         <div class="row">
           <div class="col-md-6">
-            <h3>Project Description</h3>
+            <h3>Descripción</h3>
             <div class="separator-2"></div>
             <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Atque sed, quidem quis praesentium, ut unde. Quae sed, incidunt laudantium nesciunt, optio corporis quod earum pariatur omnis illo saepe numquam suscipit, nemo placeat dignissimos eius mollitia et quas officia doloremque ipsum labore rem deserunt vero! Magnam totam delectus accusantium voluptas et, tempora quos atque, fugiat, obcaecati voluptatibus commodi illo voluptates dolore nemo quo soluta quis.</p>
             <p>Molestiae sed enim laboriosam atque delectus voluptates rerum nostrum sapiente obcaecati molestias quasi optio exercitationem, voluptate quis consequatur libero incidunt, in, quod. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Eos nobis officiis, autem earum tenetur quidem. Quae non dicta earum. Ipsum autem eaque cum dolor placeat corporis quisquam dolorum at nesciunt.</p>
