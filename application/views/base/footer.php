@@ -132,10 +132,10 @@
 				<div class="subfooter">
 					<div class="container">
 						<div class="row">
-							<div class="col-md-6">
+							<div class="col-md-7">
 								<p>Copyright © 2016 EmprendeHub desarrollado por <a target="_blank" href="http://jordanzet.com">jordanzet</a>. Todos los Derechos Reservados</p>
 							</div>
-							<div class="col-md-6">
+							<div class="col-md-5">
 								<nav class="navbar navbar-default" role="navigation">
 									<div class="navbar-header">
 										<button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#navbar-collapse-2">
@@ -148,7 +148,7 @@
 									<div class="collapse navbar-collapse" id="navbar-collapse-2">
 										<ul class="nav navbar-nav">
 											<li><a href="#">Inicio</a></li>
-											<li><a href="#">Nosotros</a></li>
+											<li><a href="nosotros">Nosotros</a></li>
 											<li><a href="#">Blog</a></li>
 											<li><a href="#">Portaolio</a></li>
 											<li><a href="#">Contactenos</a></li>
@@ -159,54 +159,24 @@
 						</div>
 					</div>
 				</div>
-				<!-- .subfooter end -->
 			</footer>
 		</div>
 
-
-				<!--<script src="http://maps.googleapis.com/maps/api/js?key=AIzaSyDwHqErJP9xLul8Q3e7DqIRgDopNqXwOnk"></script>
-		<script src="http://maps.google.com/maps/api/js?key=AIzaSyAjUY8rnvqvQmnUvnztrDgnIpQTLxidt18&callback=initMap"></script>-->
-
-		<!-- Jquery and Bootstap core js files -->
 		<script type="text/javascript" src="static/plugins/jquery.min.js"></script>
 		<script type="text/javascript" src="static/bootstrap/js/bootstrap.min.js"></script>
-
-		<!-- Modernizr javascript -->
 		<script type="text/javascript" src="static/plugins/modernizr.js"></script>
-
-		<!-- jQuery REVOLUTION Slider  -->
 		<script type="text/javascript" src="static/plugins/rs-plugin/js/jquery.themepunch.tools.min.js"></script>
 		<script type="text/javascript" src="static/plugins/rs-plugin/js/jquery.themepunch.revolution.min.js"></script>
-
-		<!-- Isotope javascript -->
 		<script type="text/javascript" src="static/plugins/isotope/isotope.pkgd.min.js"></script>
-
-		<!-- Owl carousel javascript -->
 		<script type="text/javascript" src="static/plugins/owl-carousel/owl.carousel.js"></script>
-
-		<!-- Magnific Popup javascript -->
 		<script type="text/javascript" src="static/plugins/magnific-popup/jquery.magnific-popup.min.js"></script>
-
-		<!-- Appear javascript -->
 		<script type="text/javascript" src="static/plugins/jquery.appear.js"></script>
-
-		<!-- Count To javascript -->
 		<script type="text/javascript" src="static/plugins/jquery.countTo.js"></script>
-
-		<!-- Parallax javascript -->
 		<script src="static/plugins/jquery.parallax-1.1.3.js"></script>
-
-		<!-- Contact form -->
 		<script src="static/plugins/jquery.validate.js"></script>
-
-		<!-- SmoothScroll javascript -->
 		<script type="text/javascript" src="static/plugins/jquery.browser.js"></script>
 		<script type="text/javascript" src="static/plugins/SmoothScroll.js"></script>
-
-		<!-- Initialization of Plugins -->
 		<script type="text/javascript" src="static/js/template.js"></script>
-
-		<!-- Custom Scripts -->
 		<script type="text/javascript" src="static/js/custom.js"></script>
 	</body>
 </html>
