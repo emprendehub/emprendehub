@@ -1,18 +1,3 @@
-
-            <!-- banner start -->
-            <!-- ================ -->
-            <div class="banner">
-                <div class="fixed-image section light-translucent-bg" style="background-image:url('images/page-services-banner.jpg');">
-                    <div class="container">
-                    <div class="space-top"></div>
-                    <h1>Services</h1>
-                    <div class="separator-2"></div>
-                    <p class="lead">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Vitae sit excepturi, <br class="hidden-xs hidden-sm"> hic officiis illo dolore sunt assumenda saepe id commodi sint praesentium <br class="hidden-xs hidden-sm"> natus laborum quas cumque facilis, suscipit aliquam dolorum.</p>
-                    </div>
-                </div>
-            </div>
-            <!-- banner end -->
-
             <!-- page-intro start-->
             <!-- ================ -->
             <div class="page-intro">
@@ -20,8 +5,8 @@
                     <div class="row">
                         <div class="col-md-12">
                             <ol class="breadcrumb">
-                                <li><i class="fa fa-home pr-10"></i><a href="index.html">Home</a></li>
-                                <li class="active">Services</li>
+                                <li><i class="fa fa-home pr-10"></i><a href="<?php base_url(); ?>">Inicio</a></li>
+                                <li class="active">Servicios</li>
                             </ol>
                         </div>
                     </div>
@@ -42,10 +27,10 @@
 
                             <!-- page-title start -->
                             <!-- ================ -->
-                            <h1 class="page-title text-center">Core Features</h1>
+                            <h1 class="page-title text-center">Servicios</h1>
                             <div class="separator"></div>
                             <!-- page-title end -->
-                            
+
                             <div class="row">
                                 <div class="col-md-6">
                                     <div class="box-style-3 right animated fadeInUpSmall">
@@ -53,9 +38,8 @@
                                             <i class="fa fa-bold"></i>
                                         </div>
                                         <div class="body">
-                                            <h2>Bootstrap Based</h2>
-                                            <p>Voluptatem ad provident non veritatis beatae cupiditate amet reiciendis.</p>
-                                            <a href="page-services.html" class="link"><span>Read More</span></a>
+                                            <h2>Diseño y Desarrollo Web</h2>
+                                            <p><D>Diseño limpios y unicos </D></p>
                                         </div>
                                     </div>
                                     <div class="box-style-3 right animated fadeInUpSmall">
@@ -63,9 +47,9 @@
                                             <i class="fa fa-check"></i>
                                         </div>
                                         <div class="body">
-                                            <h2>Unlimited Options</h2>
+                                            <h2>Branding y Merchandising</h2>
                                             <p>Iure sequi unde hic. Sapiente quaerat labore inventore veritatis cumque.</p>
-                                            <a href="page-services.html" class="link"><span>Read More</span></a>
+
                                         </div>
                                     </div>
                                     <div class="box-style-3 right animated fadeInUpSmall">
@@ -73,15 +57,14 @@
                                             <i class="fa fa-bicycle"></i>
                                         </div>
                                         <div class="body">
-                                            <h2>Easy to Use</h2>
+                                            <h2>E-Commerce</h2>
                                             <p>Inventore dolores aut laboriosam cum consequuntur delectus sequi! Eum est.</p>
-                                            <a href="page-services.html" class="link"><span>Read More</span></a>
                                         </div>
                                     </div>
                                 </div>
                                 <div class="col-md-6">
                                     <div class="space hidden-lg hidden-md"></div>
-                                    <img class="animated fadeInUpSmall" src="images/services-1.png" alt="iDea">
+                                    <img class="animated fadeInUpSmall" src="static/images/services-1.png" alt="iDea">
                                 </div>
                             </div>
                             <div class="space"></div>
@@ -98,7 +81,7 @@
             <!-- ================ -->
             <div class="section gray-bg clearfix">
                 <div class="container">
-                    <h1 class="text-center title">More Features</h1>
+                    <h1 class="text-center title">Mas Caracteristicas</h1>
                     <div class="row grid-space-10">
                         <div class="col-sm-4">
                             <div class="box-style-2 object-non-visible" data-animation-effect="fadeInUpSmall" data-effect-delay="0">
@@ -106,7 +89,7 @@
                                     <i class="fa fa-leaf"></i>
                                 </div>
                                 <div class="body">
-                                    <h2>Clean Design and Code</h2>
+                                    <h2>Diseño y Codigo limpio</h2>
                                     <p>Voluptatem ad provident non veritatis beatae cupiditate amet reiciendis.</p>
                                     <a href="page-services.html" class="link"><span>Read More</span></a>
                                 </div>
@@ -118,7 +101,7 @@
                                     <i class="fa fa-laptop"></i>
                                 </div>
                                 <div class="body">
-                                    <h2>Very Flexible</h2>
+                                    <h2>Muy Flexible</h2>
                                     <p>Iure sequi unde hic. Sapiente quaerat labore inventore veritatis cumque.</p>
                                     <a href="page-services.html" class="link"><span>Read More</span></a>
                                 </div>
@@ -130,7 +113,7 @@
                                     <i class="fa fa-sitemap"></i>
                                 </div>
                                 <div class="body">
-                                    <h2>Latest Technologies</h2>
+                                    <h2>Ultimas Tecnologias</h2>
                                     <p>Inventore dolores aut laboriosam cum consequuntur delectus sequi! Eum est.</p>
                                     <a href="page-services.html" class="link"><span>Read More</span></a>
                                 </div>
@@ -144,7 +127,7 @@
                                     <i class="fa fa-bold"></i>
                                 </div>
                                 <div class="body">
-                                    <h2>Packed Full of Features</h2>
+                                    <h2>Repleto de caracteristicas </h2>
                                     <p>Voluptatem ad provident non veritatis beatae cupiditate amet reiciendis.</p>
                                     <a href="page-services.html" class="link"><span>Read More</span></a>
                                 </div>
@@ -168,7 +151,7 @@
                                     <i class="fa fa-bicycle"></i>
                                 </div>
                                 <div class="body">
-                                    <h2>After Sale Support</h2>
+                                    <h2>Soporte despues de la venta</h2>
                                     <p>Inventore dolores aut laboriosam cum consequuntur delectus sequi! Eum est.</p>
                                     <a href="page-services.html" class="link"><span>Read More</span></a>
                                 </div>
@@ -213,7 +196,7 @@
                                 <h3>Lorem ipsum dolor sit amet</h3>
                                 <div class="row">
                                     <div class="col-md-6">
-                                        <img src="images/section-image-1.png" alt="">
+                                        <img src="static/static/images/section-image-1.png" alt="">
                                     </div>
                                     <div class="col-md-6">
                                         <p>Ipsum dolor sit amet, consectetur adipisicing elit. Sit, labore iste! Pariatur tempore, dicta voluptatibus quis blanditiis voluptates in. Molestiae asperiores sed, pariatur nesciunt saepe. Culpa ipsam ut enim reiciendis!</p>
@@ -275,7 +258,7 @@
                                     <li>Unlimited Disk Space</li>
                                     <li>
                                         <a href="#" class="pt-popover" data-toggle="popover" data-placement="right" data-content="Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum." title="" data-original-title="Unlimited Subdomains">Unlimited Email Acounts</a>
-                                    </li>        
+                                    </li>
                                     <li>Subdomains</li>
                                     <li>Security</li>
                                     <li>500 Visitors per month</li>
@@ -321,34 +304,34 @@
                         <div class="col-md-6">
                             <div class="owl-carousel clients">
                                 <div class="client">
-                                    <a href="#"><img src="images/client-1.png" alt=""></a>
+                                    <a href="#"><img src="static/images/client-1.png" alt=""></a>
                                 </div>
                                 <div class="client">
-                                    <a href="#"><img src="images/client-2.png" alt=""></a>
+                                    <a href="#"><img src="static/images/client-2.png" alt=""></a>
                                 </div>
                                 <div class="client">
-                                    <a href="#"><img src="images/client-3.png" alt=""></a>
+                                    <a href="#"><img src="static/images/client-3.png" alt=""></a>
                                 </div>
                                 <div class="client">
-                                    <a href="#"><img src="images/client-4.png" alt=""></a>
+                                    <a href="#"><img src="static/images/client-4.png" alt=""></a>
                                 </div>
                                 <div class="client">
-                                    <a href="#"><img src="images/client-5.png" alt=""></a>
+                                    <a href="#"><img src="static/images/client-5.png" alt=""></a>
                                 </div>
                                 <div class="client">
-                                    <a href="#"><img src="images/client-6.png" alt=""></a>
+                                    <a href="#"><img src="static/images/client-6.png" alt=""></a>
                                 </div>
                                 <div class="client">
-                                    <a href="#"><img src="images/client-7.png" alt=""></a>
+                                    <a href="#"><img src="static/images/client-7.png" alt=""></a>
                                 </div>
                                 <div class="client">
-                                    <a href="#"><img src="images/client-8.png" alt=""></a>
+                                    <a href="#"><img src="static/images/client-8.png" alt=""></a>
                                 </div>
                             </div>
                         </div>
                         <div class="col-md-6">
                             <blockquote class="inline">
-                                <p class="margin-clear">Design is not just what it looks like and feels like. Design is how it works.</p>   
+                                <p class="margin-clear">Design is not just what it looks like and feels like. Design is how it works.</p>
                                 <footer><cite title="Source Title">Steve Jobs </cite></footer>
                             </blockquote>
                         </div>
